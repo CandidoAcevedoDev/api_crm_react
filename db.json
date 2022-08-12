@@ -1,0 +1,84 @@
+{
+  "clients": [
+    {
+      "name": "Candido",
+      "business": "Medrasoft",
+      "email": "candidoaacevedom@gmail.com",
+      "phone": "8296875767",
+      "note": "Es un poco loco j",
+      "id": 2
+    },
+    {
+      "name": "Victor",
+      "business": "Victor c&a",
+      "email": "victor@victor.com",
+      "phone": "8296875767",
+      "note": "Es odioso",
+      "id": 4
+    },
+    {
+      "name": "Karent",
+      "business": "Karent Design",
+      "email": "karent@karent.com",
+      "phone": "8296875767",
+      "note": "Buena Cliente!!!",
+      "id": 5
+    },
+    {
+      "name": "Laura",
+      "business": "Laura Bizcocho",
+      "email": "laura@laura.com",
+      "phone": "8296875767",
+      "note": "Muy buenos bizcochos de Laura.",
+      "id": 6
+    },
+    {
+      "name": "Pedro",
+      "business": "Pedro Madera",
+      "email": "pedro@pedro.com",
+      "phone": "8296875767",
+      "note": "Excelente calidad de madera",
+      "id": 7
+    },
+    {
+      "name": "Candido",
+      "business": "candido cb",
+      "email": "candido@candido.com",
+      "phone": "",
+      "note": "",
+      "id": 8
+    },
+    {
+      "name": "Candido",
+      "business": "candido cb",
+      "email": "candido@candido.com",
+      "phone": "8296875767",
+      "note": "",
+      "id": 9
+    },
+    {
+      "name": "Candido",
+      "business": "Medrasoft",
+      "email": "candidoaacevedom@gmail.com",
+      "phone": "8296875767",
+      "note": "Es un poco loco j",
+      "id": 10
+    },
+    {
+      "name": "Karent",
+      "business": "Karent Design",
+      "email": "karent@karent.com",
+      "phone": "8296875767",
+      "note": "Buena Cliente!!!",
+      "id": 11
+    },
+    {
+      "name": "Juan",
+      "business": "juan c&a",
+      "email": "juan@juan.com",
+      "phone": "8296875767",
+      "note": "Buen empleado",
+      "id": 12
+    }
+  ]
+}
